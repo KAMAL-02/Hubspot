@@ -1,5 +1,3 @@
-# HubSpot Integration Project
-
 This project provides integration with HubSpot CRM using a Next.js frontend and Flask backend.
 
 ## Project Structure

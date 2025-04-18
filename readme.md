@@ -47,7 +47,6 @@ This project provides integration with HubSpot CRM using a Next.js frontend and 
    HUBSPOT_CLIENT_ID=your_hubspot_client_id
    HUBSPOT_CLIENT_SECRET=your_hubspot_client_secret
    HUBSPOT_REDIRECT_URI=http://localhost:3000/auth/callback
-   FLASK_SECRET_KEY=your_random_secret_key
    ```
 
 ### Frontend Setup

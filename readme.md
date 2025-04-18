@@ -122,3 +122,7 @@ This project provides integration with HubSpot CRM using a Next.js frontend and 
 1. Login with your HubSpot credentials when prompted.
 
 2. Use the Object Selector component to switch between different CRM objects (Contacts, Companies, Deals, etc.).
+
+## Video Walkthrough
+
+[Watch the walkthrough](https://drive.google.com/file/d/1LXAf3v3PaHq4FPSIp0lP_A_PvfROSlPD/view?usp=drive_link)
